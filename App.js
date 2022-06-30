@@ -1,4 +1,3 @@
-App.js
 import { StatusBar } from 'expo-status-bar';
 import { View } from 'react-native';
 import { Exercicio } from './src/components/flex/exercicios';
@@ -14,4 +13,3 @@ export default function App () {
 
     );
 };
-index.js
